@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Nour Chouchene",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
@@ -19,5 +19,13 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nourchouchene/bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nourchouchene/bootstrap/issues"
+  },
+  "homepage": "https://github.com/nourchouchene/bootstrap#readme"
 }
